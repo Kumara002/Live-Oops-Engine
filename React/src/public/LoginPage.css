@@ -1,0 +1,15 @@
+body{
+    margin:0;
+    padding:0;
+    background-color:grey;
+}
+#loginPic {
+        display: block;
+        margin: auto;
+        padding-top: 120px;
+        padding-bottom: 10px;
+    }
+    button#adminButton {
+        margin: 10px;
+        margin-left: 320px;
+    }
